@@ -106,6 +106,18 @@ section{
     font-size: 1rem;
     font-weight: 600;
 }
+p {
+    color: whitesmoke;
+}
+h1 {
+    color: whitesmoke;
+}
+h2 {
+    color: whitesmoke;
+}
+h3 {
+    color: whitesmoke;
+}
 .info-box{
     display: flex;
     flex-direction: column;
